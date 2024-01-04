@@ -1,4 +1,6 @@
 
+```python
+
 ## Rubbing process (Rule-based systems using kurtosis and skewness)
 
 1. Why? 러빙공정 불량 발생이 자주 일어나고 원인이 롤링 가속도에 있다는 것을 파악
@@ -37,3 +39,6 @@
    ML model: Complementary Use (providing a secondary check)
 
 8. 
+
+
+```
