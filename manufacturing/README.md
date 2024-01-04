@@ -1,4 +1,6 @@
 
+```python
+
 전처리
 시각화 (인사이트) - 가설 세움 (검증 어려움)
 파생 변수 (계측오류 별도 변수로 생성- key feature라고 생각)
@@ -52,10 +54,8 @@ Anova 분석 -> 차이가 있나 (유의차)
 
 JMP graph builder로 확률이 어떤 패턴을 가지고 있고, 이런 형태로 보여줄수 있다.
 
-I need to get skewness and Kurtosis data from acceleration values in some manufacturing processes. How can I get this? The dataset contains acceleration values and time-series data.
 
-
-
+```
 
 
 
