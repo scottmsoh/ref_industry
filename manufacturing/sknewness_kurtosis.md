@@ -38,7 +38,9 @@
                sufficient performance
    ML model: Complementary Use (providing a secondary check)
 
-8. 
+8. Python GUI 
+
+![Image 2024-01-04 at 12 34 PM](https://github.com/scottmsoh/ref_industry/assets/112598791/6734f9a6-e27a-450b-ab41-e22b1350b6f5)
 
 
 ```
