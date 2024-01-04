@@ -19,7 +19,10 @@
      segmentation해서 여러 지표들이 pass/fail을 잘 구분하는지 plot 그려봄 (아래와 같이)
    - Segmentation 방법: (가속도에 Absolute value and Averaging time 0.5s term)
    - Plot 예시: Sknewness & Kurtosis (NOR, IRF, ORF : Inner & Outer Race Fault)
+```
    ![Image 2024-01-04 at 11 26 AM](https://github.com/scottmsoh/ref_industry/assets/112598791/688a0895-7d88-429e-a670-18a3380791ec)
+
+```python
    - Anova 등 (R square value) 검증 통해 신뢰성 검증
 
 5. Database에 실시간 적재 가능하도록
@@ -39,8 +42,7 @@
    ML model: Complementary Use (providing a secondary check)
 
 8. Python GUI 
+```
 
 ![Image 2024-01-04 at 12 34 PM](https://github.com/scottmsoh/ref_industry/assets/112598791/6734f9a6-e27a-450b-ab41-e22b1350b6f5)
 
-
-```
